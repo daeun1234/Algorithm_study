@@ -1,4 +1,4 @@
-# 2022_Algorithm_study
+# Algorithm_study
 * Baekjoon 단계별 문제 풀이: https://www.acmicpc.net/
 
 **1	입출력과 사칙연산 <br>**
